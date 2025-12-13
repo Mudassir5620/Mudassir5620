@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, my name is Mudassir.
 🌱 Currently learning: MERN Full-stack Development and AI tools.<br>👨‍💻🤝 Looking to collaborate on: Web and app development projects, especially in cybersecurity and AI.<br>❓ Ask me about:  app development, or internships!<br>🎉 Fun fact: I completed a challenge early but kept refreshing my inbox for swag mail!<br>
 
 
