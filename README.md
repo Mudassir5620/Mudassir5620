@@ -1,5 +1,6 @@
 # 💫 Hello, my name is Mudassir.
-🌱 Currently learning: MERN Full-stack Development and AI tools.<br>👨‍💻🤝 Looking to collaborate on: Web and app development projects, especially in cybersecurity and AI.<br>❓ Ask me about:  app development, or internships!<br>🎉 Fun fact: I completed a challenge early but kept refreshing my inbox for swag mail!<br>
+🚀 Frontend Developer with strong React.js skills and a solid understanding of MERN Stack Development (MongoDB, Express.js, React.js, and Node.js).<br>🌱 Currently expanding my expertise in full-stack development, AI tools, and modern web technologies.<br>.
+👨‍💻 Open to collaborating on web applications, open-source projects, and innovative solutions using the MERN stack.<br>💬 Ask me about React.js, JavaScript, HTML, CSS, MERN Stack, responsive web development, and frontend best practices.<br>
 
 
 ## 🌐 Socials:
